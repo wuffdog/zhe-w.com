@@ -16,7 +16,17 @@ extra:
   generator: false
 
 markdown_extensions:
+  # Formatting
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+  # Footnotes
   - footnotes
+
+  # Lists
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
