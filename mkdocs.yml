@@ -1,0 +1,22 @@
+site_name: Caramel Gara
+site_url: https://zhe-w.com
+
+theme:
+  name: material
+  logo: assets/-site/uio-logo.png
+  favicon: assets/-site/uio-favicon.png
+  palette:
+    primary: custom
+    accent: custom
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
