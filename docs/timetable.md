@@ -37,7 +37,7 @@ Term: 2024W2
             width: 10%;
         }
         td {
-            line-height: 0.5;
+            line-height: 1;
         }
     </style>
 </head>
