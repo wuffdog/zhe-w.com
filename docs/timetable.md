@@ -1,7 +1,5 @@
 # Timetable
 
-Term: 2024W2
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +35,7 @@ Term: 2024W2
             width: 10%;
         }
         td {
-            line-height: 1;
+            line-height: 1.5;
         }
     </style>
 </head>
@@ -50,21 +48,11 @@ Term: 2024W2
                 <th>Tuesday</th>
                 <th>Wednesday</th>
                 <th>Thursday</th>
-                <th>Friday</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>9:00 AM</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
                 <td>9:30 AM</td>
-                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -76,11 +64,9 @@ Term: 2024W2
                 <td></td>
                 <td class="orange" rowspan="4">ELEC 341 201</td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>10:30 AM</td>
-                <td></td>
                 <td></td>
                 <td></td>
             </tr>
@@ -88,49 +74,14 @@ Term: 2024W2
                 <td>11:00 AM</td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>11:30 AM</td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>12:00 PM</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>12:30 PM</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>1:00 PM</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>1:30 PM</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>2:00 PM</td>
-                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -142,7 +93,6 @@ Term: 2024W2
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>3:00 PM</td>
@@ -150,11 +100,9 @@ Term: 2024W2
                 <td></td>
                 <td class="green" rowspan="4">ELEC 391 201</td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>3:30 PM</td>
-                <td></td>
                 <td></td>
                 <td></td>
             </tr>
@@ -162,37 +110,30 @@ Term: 2024W2
                 <td>4:00 PM</td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>4:30 PM</td>
                 <td class="green" rowspan="6">ELEC 391 L2C</td>
                 <td class="green" rowspan="6">ELEC 391 L2C</td>
-                <td></td>
             </tr>
             <tr>
                 <td>5:00 PM</td>
                 <td class="purple" rowspan="3">ELEC 481 201</td>
                 <td class="purple" rowspan="3">ELEC 481 201</td>
-                <td></td>
             </tr>
             <tr>
                 <td>5:30 PM</td>
-                <td></td>
             </tr>
             <tr>
                 <td>6:00 PM</td>
-                <td></td>
             </tr>
             <tr>
                 <td>6:30 PM</td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>7:00 PM</td>
-                <td></td>
                 <td></td>
                 <td></td>
             </tr>
@@ -202,9 +143,10 @@ Term: 2024W2
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
+
+Term: 2024W2
