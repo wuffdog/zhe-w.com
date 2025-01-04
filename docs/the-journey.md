@@ -64,7 +64,7 @@ Complete at least 4 credits from this list of courses:
 
 - [ ] ~~CPEN 311 (4) Digital Systems Design~~
 - [ ] ~~CPEN 333 (3-4) d Software Design for Engineers II~~
-- [ ] ELEC 331 (4) Computer Communications
+- [x] ELEC 331 (4) Computer Communications
 - [ ] ~~ELEC 352 (4) Electric Energy Systems~~
 
 ### Advanced Electives (15 cr.)
