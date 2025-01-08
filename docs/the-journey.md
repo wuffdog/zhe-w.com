@@ -35,8 +35,8 @@
 
 #### Third Year
 
-- [ ] ELEC 301 (4) Electronic Circuits
-- [ ] ELEC 311 (4) Electromagnetic Fields and Waves
+- [x] ELEC 301 (4) Electronic Circuits
+- [x] ELEC 311 (4) Electromagnetic Fields and Waves
 - [x] ELEC 315 (4) Electronic Materials and Devices
 - [ ] ELEC 341 (4) Systems and Control
 - [x] ELEC 342 (4) Electro-Mechanical Energy Conversion and Transmission
